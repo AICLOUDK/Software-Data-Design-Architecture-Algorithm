@@ -1,0 +1,81 @@
+1. Software
+Definition:
+Software refers to a collection of programs, data, and instructions that tell a computer what to do. It is intangible and exists in the form of code written in programming languages.
+
+Types of Software:
+
+System Software: Operating systems (Windows, macOS, Linux)
+Application Software: Word processors, web browsers, mobile apps
+Embedded Software: Firmware in devices like microwaves, cars
+Importance:
+Software enables hardware to perform useful tasks. It is the core component that interacts with users and hardware resources to deliver functionalities.
+
+2. Data
+Definition:
+Data is the raw information processed by software. It can take many forms—numbers, text, images, audio, video, etc.
+
+Role in Software:
+
+Data is inputted into programs for processing.
+The output is often based on manipulated data.
+Proper data management ensures accuracy, security, and efficiency.
+Types of Data in Software:
+
+Structured Data: Organized in tables (databases)
+Unstructured Data: Free-form data like emails, videos
+Semi-structured Data: XML, JSON formats
+Data and Software Relationship:
+Effective software relies on clean, well-organized data. The quality of data impacts the accuracy of results, decision-making, and system performance.
+
+3. Design
+Definition:
+Design is the process of planning how a software system will function, how it will be built, and how it will meet user needs before actual coding begins.
+
+Key Aspects of Design:
+
+Requirement Analysis: Understanding what the software should do
+System Design: Structuring the system components and their interactions
+User Interface Design: Making the software usable and accessible
+Database Design: Structuring how data will be stored and retrieved
+Types of Design:
+
+High-Level Design (Architectural Design): Overall system structure
+Low-Level Design: Detailed component and module specifications
+Importance:
+Good design results in maintainable, scalable, efficient, and reliable software systems.
+
+4. Architecture
+Definition:
+Software architecture refers to the high-level structure of a system, defining the main components, their interactions, and the technologies used.
+
+Components of Software Architecture:
+
+Modules/Components: Independent units performing specific functions
+Interfaces: Points of communication between components
+Data Flow: How data moves through the system
+Control Flow: How processes interact and coordinate
+Types of Architectures:
+
+Monolithic: All components tightly integrated
+Client-Server: Client applications interact with a central server
+Layered Architecture: Divides system into layers (e.g., presentation, business logic, data access)
+Microservices: Small, independent services working together
+Role:
+Architecture influences system performance, scalability, security, and maintainability. It provides a blueprint for developers.
+
+5. Algorithm
+Definition:
+An algorithm is a precise set of instructions or a step-by-step procedure for solving a problem or performing a task.
+
+Characteristics of a Good Algorithm:
+
+Well-Defined Inputs and Outputs
+Finite Steps: It terminates after a certain number of steps
+Efficiency: Uses resources (time, space) optimally
+Correctness: Produces the correct output for all valid inputs
+Examples of Algorithms:
+
+Sorting algorithms (Bubble Sort, Quick Sort)
+Search algorithms (Binary Search)
+Pathfinding algorithms (Dijkstra’s Algorithm)
+Machine learning
